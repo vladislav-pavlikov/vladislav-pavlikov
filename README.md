@@ -1,16 +1,17 @@
-## Hi there 👋
+# Vladislav Pavlikov
 
-<!--
-**vladislav-pavlikov/vladislav-pavlikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Engineer working with TypeScript and React across product engineering and AI-assisted development.
 
-Here are some ideas to get you started:
+I build web products, developer tools, and maintainable frontend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open source
+
+### [bind-keyboard](https://github.com/vladislav-pavlikov/bind-keyboard)
+
+A lightweight, dependency-free TypeScript library for browser keyboard shortcuts.
+
+[GitHub](https://github.com/vladislav-pavlikov/bind-keyboard) · [Live demo](https://bind-keyboard.vladislav-pavlikov.ru/) · [npm](https://www.npmjs.com/package/bind-keyboard)
+
+## Stack
+
+TypeScript · React · Vite · MobX · Node.js · Django · PostgreSQL · Docker
